@@ -14,10 +14,10 @@ export function PitchBanner({ info }) {
             <span>Demonstração de Catálogo Comercial</span>
           </div>
           <h3 className="text-xl sm:text-2xl font-bold font-display text-[#FAF7F2]">
-            Facilite os pedidos dos seus clientes do Instagram
+            Transforme seguidores do Instagram em pedidos prontos
           </h3>
           <p className="text-xs sm:text-sm text-[#D3C4B6] max-w-xl leading-relaxed">
-            Este catálogo foi projetado para transformar o público do perfil <strong className="text-white">@{info.instagram}</strong> em compradores diretos. Os clientes encontram o que precisam em segundos e o pedido chega pronto no seu WhatsApp.
+            Seus vídeos somam milhares de visualizações e comentários frequentes como: <span className="text-white italic">"Amei, como comprar?"</span> e <span className="text-white italic">"Preciso do catálogo!"</span>. Com este link na bio, seus clientes encontram o que precisam em segundos e o pedido chega pronto no seu WhatsApp.
           </p>
         </div>
 
